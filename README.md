@@ -124,5 +124,5 @@ Distribuído sob a licença ISC.
 ## Autor
 
 **Cíntia Dias**
-https://github.com/cintiadiasl
-https://www.linkedin.com/in/diaslcintia/
+- https://github.com/cintiadiasl
+- https://www.linkedin.com/in/diaslcintia/
