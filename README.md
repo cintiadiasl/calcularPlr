@@ -126,3 +126,5 @@ Distribuído sob a licença ISC.
 **Cíntia Dias**
 - https://github.com/cintiadiasl
 - https://www.linkedin.com/in/diaslcintia/
+
+![Suíte de Testes](C:\Users\diasl\Downloads\arquiteturaDeTeste.png)
