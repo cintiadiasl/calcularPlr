@@ -1,0 +1,19 @@
+{
+  "name": "calcularplr",
+  "version": "1.0.0",
+  "description": "Aplicar bônus de PLR",
+  "main": "source/calcularPlr.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Cíntia Dias",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
